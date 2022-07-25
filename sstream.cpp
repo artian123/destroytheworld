@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
     string str;
-    double cmimi, numri;
+    double cmimi;
     
     cout<<"ft cmimin: ";
     getline(cin, str);
